@@ -1,0 +1,7 @@
+name: LegacySMP-Core
+version: 1.0
+author: Nymii
+description: Minecraft Core for LegacySMP
+main: dev.nymii.legacysmpcore.Main
+api-version: '26.1.2'
+folia-supported: true
